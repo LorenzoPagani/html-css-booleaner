@@ -29,9 +29,9 @@ margin-bottom: 0;
 }
 .timpics {
 margin-top: 10px;
-display: inline-block;
 width: 100%;
 height: 40vh;
+margin-bottom: 8vh;
 }
 .mainpic {
     height: 100%;
