@@ -5,12 +5,12 @@ header {
     margin: 0;
     height: 10vh;
     background-image: url(img/pattern.png);
-    background-size: 40vh auto;
+    background-size: 40vh;
     background-color: lightblue;
 
 }
 .logo {
-    width: 10%;
+    width: 15%;
     margin-top: 20px;
     margin-left: 100px;
 }
