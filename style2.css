@@ -1,23 +1,23 @@
 body {
     font-family: serif;
-    width: 70%;
-    margin: auto;
+    margin: 0;
  }
  header {
      margin: 0;
-     height: 10vh;
+     height: 70px;
      background-image: url(img/pattern.png);
-     background-size: 40vh;
+     background-size: 300px;
      background-color: lightblue;
  
  }
  .logo {
      width: 15%;
-     margin-top: 3%;
+     margin-top: 17px;
      margin-left: 1%;
  }
  main {
      padding: 0;
+     margin: 1vw;
  }
  h1 {
  margin-bottom: 0;
@@ -31,7 +31,7 @@ body {
  }
  .timpics {
  margin-top: 10px;
- width: 100%;
+ width: 80%;
  height: 40vh;
  margin-bottom: 8vh;
  }
