@@ -75,9 +75,11 @@ body {
  }
  #monitor {
      background-image: url(img/monitor.jpg);
+     background-size: cover;
  }
  #graph {
      background-image: url(img/graph.jpg);
+     background-size: cover;
  }
  .imgtext {
      display: block;
