@@ -1,23 +1,23 @@
 body {
     font-family: serif;
-    margin: 0;
+    width: 70%;
+    margin: auto;
  }
  header {
      margin: 0;
-     height: 70px;
+     height: 10vh;
      background-image: url(img/pattern.png);
-     background-size: 300px;
+     background-size: 40vh;
      background-color: lightblue;
  
  }
  .logo {
      width: 15%;
-     margin-top: 17px;
+     margin-top: 3%;
      margin-left: 1%;
  }
  main {
      padding: 0;
-     margin: 1vw;
  }
  h1 {
  margin-bottom: 0;
