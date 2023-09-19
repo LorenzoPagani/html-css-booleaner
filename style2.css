@@ -7,14 +7,14 @@ body {
      margin: 0;
      height: 10vh;
      background-image: url(img/pattern.png);
-     background-size: 40vh;
+     background-size: 300px;
      background-color: lightblue;
  
  }
  .logo {
      width: 15%;
-     margin-top: 3%;
-     margin-left: 1%;
+     margin-top: 17px;
+     margin-left: 100px;
  }
  main {
      padding: 0;
